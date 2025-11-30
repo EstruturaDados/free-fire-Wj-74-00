@@ -3,11 +3,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-
-
 /*
   Sistema de Inventário - Mochila Inicial do Jogador
 - struct Item: armazena nome, tipo e quantidade
